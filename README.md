@@ -38,7 +38,7 @@
 <a href="https://github.com/SuikaBot">
   <img height=100 align="center" src="https://github-readme-stats-xhaeffers-projects.vercel.app/api/pin/?username=hasyim404&repo=wangsap-bot&show_owner=true" />
 </a>
-<a href="https://github.com/SuikaBot">
+<a href="https://github.com/xhaeffer">
   <img height=100 align="center" src="https://github-readme-stats-xhaeffers-projects.vercel.app/api/pin/?username=lussyanast&repo=bajobliss&show_owner=true" />
 </a>
 <br/><br/>
