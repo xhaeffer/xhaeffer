@@ -1,5 +1,11 @@
 <h1><img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true"></h1>
-<h1 align="center">Howdy! <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><br><a href="https://github.com/xhaeffer">Xhaeffer</a>'s here! <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="center">Howdy! <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><br><a href="https://github.com/xhaeffer">Xhaeffer</a>'s here! <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> </h1>
+
+
+### 🚧 *Website's Under Construction!* <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" width="35">
+Hola! <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" width="35"> <br/>
+My website's still under construction, so I'm redirecting you to my GitHub page for now. <br/>
+Sorry for any hassle <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="60"> <br/><br/>
 
 
 ### 📬 Find me at
