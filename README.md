@@ -25,7 +25,7 @@ Sorry for any hassle <img src="https://user-images.githubusercontent.com/7403819
 
 
 ### 🎧 Vibing to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnston_db&cover_image=true&theme=novatorem&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/johnston_db)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=johnston_db&cover_image=true&theme=novatorem&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/johnston_db)
 <br/><br/>
 
 ### ⚙️ Some Tool and Tech I use
