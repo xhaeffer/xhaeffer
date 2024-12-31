@@ -14,8 +14,9 @@ Sorry for any hassle <img src="https://user-images.githubusercontent.com/7403819
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-- I'm an **Undergraduate Student🎓 [@ Gunadarma University (Indonesia)](https://www.gunadarma.ac.id/)** majoring in Informatics.
-- Currently actively involved in several web & software development projects, in order to continue to deepen knowledge & expand experience in these fields.
+- I'm an **Undergraduate Student 🎓 [@ Gunadarma University (Indonesia)](https://www.gunadarma.ac.id/)** majoring in Informatics.
+- I’m a **Web Developer** 🌐 (focusing on **Back-end**, but has **Front-end** expertise as well).
+- Currently, I’m learning **Android Development 📱 (Android Studio & Kotlin)** and working on various web and software projects to deepen my knowledge and expand my experience.
 - I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 <br/><br/>
 
@@ -44,9 +45,9 @@ Sorry for any hassle <img src="https://user-images.githubusercontent.com/7403819
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"></code>
 
 
-### 🤫 Some (Private) Project
+### 👥 Some Collaborative Projects
 <a href="https://github.com/SuikaBot">
-  <img height=100 align="center" src="https://github-readme-stats-xhaeffers-projects.vercel.app/api/pin/?username=hasyim404&repo=wangsap-bot&show_owner=true" />
+  <img height=100 align="center" src="https://github-readme-stats-xhaeffers-projects.vercel.app/api/pin/?username=SuikaBot&repo=SuikaBot-WWebJS&show_owner=true" />
 </a>
 <a href="https://github.com/lussyanast/bajobliss/tree/server">
   <img height=100 align="center" src="https://github-readme-stats-xhaeffers-projects.vercel.app/api/pin/?username=lussyanast&repo=bajobliss&show_owner=true" />
